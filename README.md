@@ -14,3 +14,6 @@ In the project directory, you can run:
  ### `python manage.py makemigrations`
  ### `python manage.py migrate`
  ### `python manage.py runserver`
+ 
+ Runs the app in the development mode.\
+Open [http://127.0.0.1:8000/backend_api/mascotas/] to view it in your browser.
